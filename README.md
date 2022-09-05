@@ -1,2 +1,2 @@
 # Roadmap
-the project roadmap with milesontes
+the project roadmap with milestones
